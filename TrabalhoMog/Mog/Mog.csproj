@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\ClientAPI\APIClient.cs" />
     <Compile Include="Assets\Scripts\ClientAPI\Item.cs" />
     <Compile Include="Assets\Scripts\ClientAPI\JsonHelper.cs" />
+    <Compile Include="Assets\Scripts\ClientAPI\ListaItens.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

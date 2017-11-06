@@ -4,7 +4,7 @@ namespace TrabalhoMog.Models.Contexto
 {
     public class MeuContexto : DbContext
     {
-        public MeuContexto() : base("strConn")
+        public MeuContexto() : base("strConnT")
         {
 
         }
